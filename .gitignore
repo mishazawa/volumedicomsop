@@ -1,0 +1,10 @@
+.DS_Store
+
+backup/
+DICOM*/
+output/
+ply/
+render/
+video/
+*.hiplc
+!example.hiplc
